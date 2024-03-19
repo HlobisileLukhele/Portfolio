@@ -286,13 +286,14 @@ input[type="text"]
   .hook-up-para {
     margin-top:5rem;
     width: 80%;
-    height:60% !important;
-    height: 63em !important;
+    height:80% !important;
+    height: 90px !important;
     background-color: #2693FF!important;
   }
   .Head-shot-sm {
     display: none !important;
   }
+
   .Head-shot-sm {
     align-items: center !important;
     margin: 4.5rem 0rem 5rem 4.5rem !important;
