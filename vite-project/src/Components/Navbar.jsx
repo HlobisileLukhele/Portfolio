@@ -15,7 +15,6 @@ const Navbar = () => {
       setShowMenu(false);
     }
   };
-
   return (
     <div className='container-fluid'>  
     <header className="header">
