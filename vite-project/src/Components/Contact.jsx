@@ -7,7 +7,7 @@ const Contact = () => {
         <>  
   
     <div className="container-fluid mt-6">
-    <div className="container hook-up-para mt-10 mb-10">
+    <div className="container hook-up-para">
      <div className="row font-serif">
     <div className="col-sm-6 pt-20  pl-5 text-center">
       <h1 className="heading-text tracking-wide pt-16">Get In Touch</h1>
