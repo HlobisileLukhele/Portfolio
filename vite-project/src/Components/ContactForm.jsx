@@ -14,7 +14,7 @@ const ContactForm = () => {
     <div className="containe-fluid">
   <div className="row">
     <div className="col-sm-6 gap-0">  
-    <div className="form-container mt-4 mb-3 mr-10  border-blue-gray-900 gap-0 align-items-center">
+    <div className="form-container mt-8 mb-3 mr-10  border-blue-gray-900 gap-0 align-items-center">
       <form className="contact-form text-center "  onSubmit={handleSubmit(onSubmit)} noValidate>
         <div className="form-group">
           <label htmlFor="fullname">Full Name</label>
