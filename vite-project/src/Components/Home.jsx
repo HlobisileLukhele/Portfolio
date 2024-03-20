@@ -1,7 +1,6 @@
 import  Resumebutton from './Resumebutton';
 import Contactbutton from './Contactbutton';
 import Headshot from '../Assets/images/head-shot image.png';
-import DownloadIcon from '@mui/icons-material/Download';
 function Home() {
     return (
       <section id="about">  
@@ -18,11 +17,8 @@ function Home() {
        <div className=" sm:mt-4 space-x-4 sm:flex text-left ml-12 mr-12 pr-15 pt-3 pb-9 ">
        <div data-aos="zoom-in">
        <div className='col-sm6 d-flex align-items-center '> 
-       <Resumebutton className=" pt-8 sm:mt-4 mb-4 pb-8 pl-2">
-        <a href="Hlobisile Lukhele resume (10).pdf" target="_blank" download="HlobisileLukhele Resume"/>
-        <DownloadIcon />
-        </Resumebutton>
-        <Contactbutton />
+       <Resumebutton/>       
+       <Contactbutton />
        </div>
        </div>
        </div>
