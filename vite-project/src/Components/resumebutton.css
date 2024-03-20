@@ -7,12 +7,11 @@
   font-weight: bold !important;
   border: 1pt solid #2693FF !important;
 }
-.resume-btn:hover {
+.resume-btn:hover{
   background-color:  white !important;
   color: #2693FF !important;
   transition: 1 sec ease-in !important;
 }
-.button__icon-resume {
-  width: 5px  !important;
-  height: 5px !important;
-}
+.icon-link:hover{
+  color: #2693FF !important;
+} 
