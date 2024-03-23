@@ -7,12 +7,10 @@
 }
 body{ 
   overflow-x: hidden;
-
 }
 .App {
   color:var(--button-text);
   overflow-x: hidden !important;
-  
   }
 .horizontal-line {
   background-color:black !important;
