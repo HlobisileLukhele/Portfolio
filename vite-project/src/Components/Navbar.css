@@ -41,7 +41,7 @@
 }
 .nav__item:hover {
   transition: 1 sec ease-in;
-  color: black;
+  color: black !important;
 }
 .nav__link {
   color: #fff !important;
