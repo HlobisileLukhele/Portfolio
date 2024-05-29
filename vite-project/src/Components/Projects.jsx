@@ -7,7 +7,7 @@ import {
   } from "@material-tailwind/react";
   import GitHubIcon from '@mui/icons-material/GitHub';
   import LanguageIcon from '@mui/icons-material/Language';
-  import FraudDetectorImage from '../Assets/images/Fruad Detector.jpeg'
+  import eCommerceWebite from '../Assets/images/eCommerce-Websites.png'
   import PortfolioImage from '../Assets/images/portfolio.png'
   import BellabhekaWebsite from '../Assets/images/Bellabheka website.png';
    
@@ -38,7 +38,7 @@ import {
               <a href="https://github.com/HlobisileLukhele/BellaBheka-Website-" target="_blank" rel="noreferrer">
               <GitHubIcon />
               </a>
-              <a href="https://bellabheksa-website.netlify.app/" target="_blank" rel="noreferrer">
+              <a href="https://bella-bheka-website.vercel.app/" target="_blank" rel="noreferrer">
               <LanguageIcon />
               </a>
             </div>
@@ -60,10 +60,10 @@ import {
             </CardBody>
             <CardFooter className="pt-2">
             <div className="icons text-center ">
-              <a href="https://portfolio-ecru-five-97.vercel.app/" target="_blank" rel="noreferrer">
+              <a href="https://github.com/HlobisileLukhele/Portfolio" target="_blank" rel="noreferrer">
               <GitHubIcon />
               </a>
-              <a href="" target="_blank" rel="noreferrer">
+              <a href="https://portfolio-ecru-five-97.vercel.app/" target="_blank" rel="noreferrer">
               <LanguageIcon />
               </a>
             </div>
@@ -74,19 +74,24 @@ import {
         <div className="w-full md:w-96">
           <Card className="mt-6 border-black">
             <CardHeader color="blue-gray" className="relative h-46">
-            <img src= {FraudDetectorImage} alt="card-image" />
+            <img src= {eCommerceWebite} alt="card-image" />
             </CardHeader>
             <CardBody>
               <Typography variant="h5" color="blue-gray" className="name-tag mb-2 font-semibold">
-                Fruad Detector
+              Mobile Matters eCommerce website
               </Typography>
               <Typography color="blue-gray">
-              A application that checks for fraudulent activities by analyzing card transactions.
+              Mobile Matters eCommerce website for a tech gadgets and accessories.
               </Typography>
             </CardBody>
             <CardFooter className="">
-            <div className="icons text-center">
-            <LanguageIcon />
+            <div className="icons text-center ">
+              <a href="https://github.com/HlobisileLukhele/mobile-matters-ecommerce-site" target="_blank" rel="noreferrer">
+              <GitHubIcon />
+              </a>
+              <a href="https://mobile-matters-ecommerce-site.vercel.app/" target="_blank" rel="noreferrer">
+              <LanguageIcon />
+              </a>
             </div>
             </CardFooter>
           </Card>
