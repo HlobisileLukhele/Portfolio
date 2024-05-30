@@ -7,7 +7,7 @@ import {
   } from "@material-tailwind/react";
   import GitHubIcon from '@mui/icons-material/GitHub';
   import LanguageIcon from '@mui/icons-material/Language';
-  import eCommerceWebsite from '../Assets/images/eCommerce-Website.png'
+  import ECommerceWebsite from '../Assets/images/eCommerce-Website.png'
   import PortfolioImage from '../Assets/images/portfolio.png'
   import BellabhekaWebsite from '../Assets/images/Bellabheka website.png';
    
@@ -74,11 +74,11 @@ import {
         <div className="w-full md:w-96">
           <Card className="mt-6 border-black">
             <CardHeader color="blue-gray" className="relative h-46">
-            <img src= {eCommerceWebsite} alt="card-image" />
+            <img src= {ECommerceWebsite} alt="card-image" />
             </CardHeader>
             <CardBody>
               <Typography variant="h5" color="blue-gray" className="name-tag mb-2 font-semibold">
-              Mobile Matters eCommerce website
+              Mobile Matters eCommerce
               </Typography>
               <Typography color="blue-gray">
               Mobile Matters eCommerce website for a tech gadgets and accessories.
