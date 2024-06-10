@@ -72,7 +72,7 @@ import {
 
         <div className="w-full md:w-96">
           <Card className="mt-6 border-black">
-            <CardHeader color="blue-gray" className="relative h-46">
+            <CardHeader color="blue-gray" className="relative h-43">
             <img src= {KonceptAgency} alt="card-image" />
             </CardHeader>
             <CardBody>
