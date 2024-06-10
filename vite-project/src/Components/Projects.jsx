@@ -7,7 +7,7 @@ import {
   } from "@material-tailwind/react";
   import GitHubIcon from '@mui/icons-material/GitHub';
   import LanguageIcon from '@mui/icons-material/Language';
-  import KonceptAgency from '../Assets/images/Koncept-agency-homepagepng'
+  import KonceptAgency from '../Assets/images/Koncept-agency-homepage.png'
   import PortfolioImage from '../Assets/images/portfolio.png'
   import BellabhekaWebsite from '../Assets/images/Bellabheka website.png';
    
