@@ -9,8 +9,7 @@ import {
   import LanguageIcon from '@mui/icons-material/Language';
   import KonceptAgency from '../Assets/images/Koncept-agency-homepage.png'
   import PortfolioImage from '../Assets/images/portfolio.png'
-  import BellabhekaWebsite from '../Assets/images/Bellabheka website.png';
-   
+  import BellabhekaWebsite from '../Assets/images/Bellabheka website.png'; 
   export default function Projects() {
     return (
       <section id="Projects">
