@@ -29,7 +29,7 @@ import {
                 Bellabheka Website
               </Typography>
               <Typography color="blue-gray">
-                Bellabheka is a catering and decor company that provides services to all kinds of events around Durban.
+                Developed a functional  website for  a company  that provides catering and decor services  around all parts Durban.
               </Typography>
             </CardBody>
             <CardFooter className="pt-2">
@@ -54,7 +54,7 @@ import {
                 Personal Portfolio
               </Typography>
               <Typography color="blue-gray">
-                Personal portfolio website to showcase skills acquired and projects built along with the impacts it derives.
+                Designed and developed a Personal portfolio website to showcase technical skills and projects built along with the impacts it derives.
               </Typography>
             </CardBody>
             <CardFooter className="pt-2">
@@ -80,7 +80,7 @@ import {
              Koncept Agency
               </Typography>
               <Typography color="blue-gray">
-              Developed a website for a branding and illustration agency,assisted them scale  their web presents and convert visitors to clients.
+              Developed a website for a branding and illustration agency,assisted them scale their web present and convert visitors to clients.
               </Typography>
             </CardBody>
             <CardFooter className="mb-0">
