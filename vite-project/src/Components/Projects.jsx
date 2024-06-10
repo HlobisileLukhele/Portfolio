@@ -29,7 +29,7 @@ import {
                 Bellabheka Website
               </Typography>
               <Typography color="blue-gray">
-                Developed a functional  website for  a company  that provides catering and decor services  around all parts Durban.
+                Developed a functional  website for  a company  that provides catering and decor services  around all parts Durban, helped reach more clients through SEO.
               </Typography>
             </CardBody>
             <CardFooter className="pt-2">
@@ -54,7 +54,7 @@ import {
                 Personal Portfolio
               </Typography>
               <Typography color="blue-gray">
-                Designed and developed a Personal portfolio website to showcase technical skills and projects built along with the impacts it derives.
+                Designed and developed a Personal portfolio website to showcase technical skills and projects worked on .
               </Typography>
             </CardBody>
             <CardFooter className="pt-2">
