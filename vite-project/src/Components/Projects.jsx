@@ -72,7 +72,7 @@ import {
 
         <div className="w-full md:w-96">
           <Card className="mt-6 border-black">
-            <CardHeader color="blue-gray" className="relative h-40">
+            <CardHeader color="blue-gray" className="relative h-38">
             <img src= {KonceptAgency} alt="card-image" className="h-30 w-full" />
             </CardHeader>
             <CardBody>
@@ -80,10 +80,10 @@ import {
              Koncept Agency
               </Typography>
               <Typography color="blue-gray">
-              Developed a website for a branding and illustration agency,assisted  them scale  their web presents and convert visitors to clients.
+              Developed a website for a branding and illustration agency,assisted them scale  their web presents and convert visitors to clients.
               </Typography>
             </CardBody>
-            <CardFooter className="">
+            <CardFooter className="mb-0">
             <div className="icons text-center ">
               <a href="https://github.com/HlobisileLukhele/Koncept-Agency" target="_blank" rel="noreferrer">
               <GitHubIcon />
