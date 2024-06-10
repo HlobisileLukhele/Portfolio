@@ -7,7 +7,7 @@ import {
   } from "@material-tailwind/react";
   import GitHubIcon from '@mui/icons-material/GitHub';
   import LanguageIcon from '@mui/icons-material/Language';
-  import ECommerceWebsite from '../Assets/images/eCommerce-Website.png'
+  import KonceptAgency from '../Assets/images/Koncept-agency-homepagepng'
   import PortfolioImage from '../Assets/images/portfolio.png'
   import BellabhekaWebsite from '../Assets/images/Bellabheka website.png';
    
@@ -74,22 +74,22 @@ import {
         <div className="w-full md:w-96">
           <Card className="mt-6 border-black">
             <CardHeader color="blue-gray" className="relative h-46">
-            <img src= {ECommerceWebsite} alt="card-image" />
+            <img src= {KonceptAgency} alt="card-image" />
             </CardHeader>
             <CardBody>
               <Typography variant="h5" color="blue-gray" className="name-tag mb-2 font-semibold">
-              Mobile Matters eCommerce
+             Koncept Agency
               </Typography>
               <Typography color="blue-gray">
-              Mobile Matters eCommerce website for a tech gadgets and accessories.
+              Developed a website for a branding and illustration agency,assisted  them scale  their web presents and convert visitors to clients.
               </Typography>
             </CardBody>
             <CardFooter className="">
             <div className="icons text-center ">
-              <a href="https://github.com/HlobisileLukhele/mobile-matters-ecommerce-site" target="_blank" rel="noreferrer">
+              <a href="https://github.com/HlobisileLukhele/Koncept-Agency" target="_blank" rel="noreferrer">
               <GitHubIcon />
               </a>
-              <a href="https://mobile-matters-ecommerce-site.vercel.app/" target="_blank" rel="noreferrer">
+              <a href="https://koncept-agency.vercel.app/" target="_blank" rel="noreferrer">
               <LanguageIcon />
               </a>
             </div>
