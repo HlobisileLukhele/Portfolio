@@ -50,11 +50,11 @@ import {
               <img src={PortfolioImage} alt="card-image" />
             </CardHeader>
             <CardBody>
-              <Typography variant="h5" color="blue-gray" className="name-tag mb-2 font-semibold ">
+              <Typography variant="h5" color="blue-gray" className="name-tag mb-2 font-semibold">
                 Personal Portfolio
               </Typography>
               <Typography color="blue-gray">
-                Designed and developed a Personal portfolio website to showcase technical skills and projects worked on .
+                Designed and developed a Personal portfolio website to showcase technical skills acquired, projects and real world applications I have worked on .
               </Typography>
             </CardBody>
             <CardFooter className="pt-2">
