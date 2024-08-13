@@ -7,9 +7,9 @@ import {
   } from "@material-tailwind/react";
   import GitHubIcon from '@mui/icons-material/GitHub';
   import LanguageIcon from '@mui/icons-material/Language';
-  import KonceptAgency from '../Assets/images/Koncept-agency-homepage.png'
+  import KonceptAgency from '../Assets/images/facilitators.png'
   import PortfolioImage from '../Assets/images/portfolio.png'
-  import BellabhekaWebsite from '../Assets/images/Bellabheka website.png'; 
+  import BellabhekaWebsite from '../Assets/images/connecthire.png'; 
   export default function Projects() {
     return (
       <section id="Projects">
@@ -18,7 +18,7 @@ import {
         Projects
       </Typography>
       <div data-aos="fade-up" data-aos-duration="2000"> 
-      <div className="lg: grid grid-cols-1 md:grid-cols-3 gap-14 ">
+      <div className="lg: grid grid-cols-1 md:grid-cols-3 gap-2 ">
         <div className="md:w-96 border-black">
           <Card className="mt-6">
             <CardHeader color="blue-gray" className="relative h-46">
@@ -26,18 +26,18 @@ import {
             </CardHeader>
             <CardBody>
               <Typography variant="h5" color="blue-gray" className="name-tag mb-2  font-semibold ">
-                Bellabheka Website
+                ConnectHire 
               </Typography>
               <Typography color="blue-gray">
-                Developed a functional  website for  a company  that provides catering and decor services  around all parts Durban, helped reach more clients through SEO.
+              Connecthire is a job portal platform built with React.js that simplifies the job search and recruitment process.. It offers easy job searches, application management, and real-time notifications,designed to streamline the connection between employers and potential employees, making the job market more accessible and efficient.
               </Typography>
             </CardBody>
             <CardFooter className="pt-2">
             <div className="icons text-center name-tag">
-              <a href="https://github.com/HlobisileLukhele/BellaBheka-Website-" target="_blank" rel="noreferrer">
+              <a href="https://github.com/HlobisileLukhele/ConnectHire" target="_blank" rel="noreferrer">
               <GitHubIcon />
               </a>
-              <a href="https://bella-bheka-website.vercel.app/" target="_blank" rel="noreferrer">
+              <a href="https://connecthire.vercel.app/" target="_blank" rel="noreferrer">
               <LanguageIcon />
               </a>
             </div>
@@ -54,7 +54,7 @@ import {
                 Personal Portfolio
               </Typography>
               <Typography color="blue-gray">
-                Designed and developed a Personal portfolio website to showcase technical skills acquired, projects and real world applications I have worked on .
+              Personal portfolio, developed with React.js, features an interactive layout showcasing projects and skills. It includes a contact form for inquiries, smooth navigation, and a modern design to effectively present work and expertise. However, it focuses on simplicity, ensuring that content is easily accessible without overwhelming the user
               </Typography>
             </CardBody>
             <CardFooter className="pt-2">
@@ -77,19 +77,16 @@ import {
             </CardHeader>
             <CardBody>
               <Typography variant="h5" color="blue-gray" className="name-tag mb-2 font-semibold">
-             Koncept Agency
+             Bconsult Operational System
               </Typography>
               <Typography color="blue-gray">
-              Developed a website for a branding and illustration agency,assisted them scale their web present and convert visitors to clients.
+              Bconsult LMS system, built with PHP, JavaScript, HTML, CSS, and Tailwind provides a streamlined platform for online learning. It features course management, student tracking, and interactive learning tools, offering an efficient and user-friendly experience for both educators and learners.
               </Typography>
             </CardBody>
             <CardFooter className="mb-0">
             <div className="icons text-center ">
-              <a href="https://github.com/HlobisileLukhele/Koncept-Agency" target="_blank" rel="noreferrer">
+              <a href="https://github.com/Bconsult-operation-system/Operational-system" target="_blank" rel="noreferrer">
               <GitHubIcon />
-              </a>
-              <a href="https://koncept-agency.vercel.app/" target="_blank" rel="noreferrer">
-              <LanguageIcon />
               </a>
             </div>
             </CardFooter>
@@ -97,6 +94,10 @@ import {
         </div>
       </div>
     </div>
+
+
+    
+
     </div>
     </section>
     );
